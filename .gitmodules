@@ -1,3 +1,6 @@
 [submodule "Project/KLH-CSE-2026-27-T04-MultilingualModelRouter"]
 	path = Project/KLH-CSIT-2026-27-T04-MultilingualModelRouter
 	url = https://github.com/Bhargava-007/KLH-CSIT-2026-27-T04-MultilingualModelRouter.git
+[submodule "Project/KLH-CSIT-2026-27-T04-MultilingualModelRouter"]
+	path = Project/KLH-CSIT-2026-27-T03-S10-MultilingualModelRouter
+	url = https://github.com/Bhargava-007/KLH-CSIT-2026-27-T03-S10-MultilingualModelRouter.git
